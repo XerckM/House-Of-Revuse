@@ -5,6 +5,7 @@
 /server/node_modules
 /client/.pnp
 /client/.pnp.js
+.gitignore
 
 # testing
 /client/coverage
@@ -13,6 +14,7 @@
 /client//build
 
 # misc
+/server/data/product.json
 /server/config/config.env
 /client/.DS_Store
 /client/.env.local
