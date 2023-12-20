@@ -1,0 +1,87 @@
+[
+    {
+        "name": "SanDisk Ultra 32GB microSDHC UHS-I Card with Adapter",
+        "price": "45.99",
+        "description": "Ultra-fast cards (2) to take better pictures and full HD videos (1) with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDHC UHS-I cards you'll benefit from faster downloads, high capacity, and better performance to capture and store 32GB (5) of high quality pictures and Full HD video (1). Take advantage of ultra-fast read speeds of up to 80MB/s (3) to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk Ultra SDHC UHS-I cards are compatible with SDHC and SDXC digital devices, and come with a 10-year limited warranty (6).",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "products/tzfsnrzqjxqjzqjzqjzq",
+            "url": "https://res.cloudinary.com/dx6tl6aa2/image/upload/v1606329599/products/tzfsnrzqjxqjzqjzqjzq.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 10,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "CANON EOS REBEL SL3 DSLR CAMERA WITH 18-55MM LENS",
+        "price": "599.99",
+        "description": "The Canon EOS Rebel SL3 is a lightweight DSLR with a 24mp APS-C sized sensor, 4K video recording, and a fully articulating touchscreen. It's Canon's smallest and lightest DSLR camera to date, and also the first Canon DSLR to feature 4K video recording with Dual Pixel AF. The Canon EOS Rebel SL3 is available for $599 body only, or $749 with 18-55mm IS STM lens.",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "products/Canon-EOS-Rebel-SL3-DSLR-Camera-with-18-55mm-Lens-Black-3453C002",
+            "url": "https://res.cloudinary.com/dx6tl6aa2/image/upload/v1606329599/products/Canon-EOS-Rebel-SL3-DSLR-Camera-with-18-55mm-Lens-Black-3453C002.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 10,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "CAN USB FD Adapter (GC-CAN-USB-FD)",
+        "price": "315.00",
+        "description": "Monitor a CAN network, write a CAN program and communicate with industrial, medical, automotive, or other CAN based device. Connect CAN FD and CAN networks.",
+        "ratings": 1.65,
+        "images": [{
+            "public_id": "products/CAN-USB-FD-Adapter-GC-CAN-USB-FD",
+            "url": "https://res.cloudinary.com/dx6tl6aa2/image/upload/v1606329599/products/CAN-USB-FD-Adapter-GC-CAN-USB-FD.jpg"
+        }],
+        "category": "Electronics",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 3,
+        "reviews": []
+    },
+    {
+        "name": "Apple Macbook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray (Latest Model)",
+        "price": "949.99",
+        "description": "Stunning 13.3-inch Retina display with True Tone technology Backlit Magic Keyboard and Touch ID Tenth-generation Intel Core i3 processor Intel Iris Plus Graphics Fast SSD storage 8GB of memory Stereo speakers with wider stereo sound Two Thunderbolt 3 (USB-C) ports Up to 11 hours of battery life Force Touch trackpad",
+        "ratings": 4.9,
+        "images": [{
+            "public_id": "products/Apple-Macbook-Air-13-inch-8GB-RAM-256GB-SSD-Storage-Space-Gray-Latest-Model",
+            "url": "https://res.cloudinary.com/dx6tl6aa2/image/upload/v1606329599/products/Apple-Macbook-Air-13-inch-8GB-RAM-256GB-SSD-Storage-Space-Gray-Latest-Model.jpg"
+        }],
+        "category": "Laptops",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 56,
+        "reviews": []
+    },
+    {
+        "name": "Kauffman Orchards Homegrown MacIntosh Apples",
+        "price": "45.99",
+        "description": "Kauffman Orchards Homegrown MacIntosh Apples, Fresh-Picked in Lancaster County, Pennsylvania (Box of 16)",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "products/kauffman-orchards-homegrown-macintosh-apples-fresh-picked-in-lancaster-county-pennsylvania-box-of-16",
+                "url": "https://res.cloudinary.com/dx6tl6aa2/image/upload/v1606329599/products/kauffman-orchards-homegrown-macintosh-apples-fresh-picked-in-lancaster-county-pennsylvania-box-of-16.jpg"
+            },
+            {
+                "public_id": "products/kauffman-orchards-homegrown-macintosh-apples-fresh-picked-in-lancaster-county-pennsylvania-box-of-16-1",
+                "url": "https://res.cloudinary.com/dx6tl6aa2/image/upload/v1606329599/products/kauffman-orchards-homegrown-macintosh-apples-fresh-picked-in-lancaster-county-pennsylvania-box-of-16-1.jpg"
+            },
+            {
+                "public_id": "products/kauffman-orchards-homegrown-macintosh-apples-fresh-picked-in-lancaster-county-pennsylvania-box-of-16-2",
+                "url": "https://res.cloudinary.com/dx6tl6aa2/image/upload/v1606329599/products/kauffman-orchards-homegrown-macintosh-apples-fresh-picked-in-lancaster-county-pennsylvania-box-of-16-2.jpg"
+            }
+        ],
+        "category": "Food",
+        "seller": "Kauffaman's Fruit Farm & Market",
+        "stock": 500,
+        "numOfReviews": 1,
+        "reviews": []
+    }
+]
